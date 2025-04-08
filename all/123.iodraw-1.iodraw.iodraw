@@ -1106,7 +1106,7 @@
         <mxCell id="bph-kjF5Y-N-u-ZXeaBX-38" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="141" y="820" as="sourcePoint" />
-            <mxPoint x="660" y="820" as="targetPoint" />
+            <mxPoint x="490" y="820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bph-kjF5Y-N-u-ZXeaBX-39" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="bph-kjF5Y-N-u-ZXeaBX-13">
@@ -1125,12 +1125,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="485" y="849" as="sourcePoint" />
             <mxPoint x="485" y="820" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="bph-kjF5Y-N-u-ZXeaBX-42" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="660" y="849" as="sourcePoint" />
-            <mxPoint x="660" y="820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
