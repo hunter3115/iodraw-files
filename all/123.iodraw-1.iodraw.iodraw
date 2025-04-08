@@ -977,9 +977,6 @@
         <mxCell id="bph-kjF5Y-N-u-ZXeaBX-15" value="主&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;br&gt;&lt;div&gt;体&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;结&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;构&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;作&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;业&lt;/div&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;队&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="465" y="849" width="40" height="225" as="geometry" />
         </mxCell>
-        <mxCell id="bph-kjF5Y-N-u-ZXeaBX-16" value="井&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;br&gt;&lt;div&gt;点&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;降&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;水&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;作&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;业&lt;/div&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;队&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="639" y="849" width="40" height="225" as="geometry" />
-        </mxCell>
         <mxCell id="bph-kjF5Y-N-u-ZXeaBX-17" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="bph-kjF5Y-N-u-ZXeaBX-2" target="bph-kjF5Y-N-u-ZXeaBX-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="670" as="sourcePoint" />
