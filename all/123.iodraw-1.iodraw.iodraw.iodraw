@@ -891,7 +891,7 @@
             <mxPoint x="280" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CnF4NuGKu7I8oEeLw8vp-17" value="通讯组：&lt;div&gt;&amp;nbsp; 陶谊&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="CnF4NuGKu7I8oEeLw8vp-17" value="通讯组：&lt;div&gt;&amp;nbsp; 陈飞&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="120" y="550" width="80" height="116" as="geometry" />
         </mxCell>
         <mxCell id="CnF4NuGKu7I8oEeLw8vp-18" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="CnF4NuGKu7I8oEeLw8vp-17" edge="1">
