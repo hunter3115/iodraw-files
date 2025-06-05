@@ -855,7 +855,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CnF4NuGKu7I8oEeLw8vp-1" value="组长：李&amp;nbsp; &amp;nbsp; &amp;nbsp;敏" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="CnF4NuGKu7I8oEeLw8vp-1" value="组长：高宗江" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="320" y="360" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CnF4NuGKu7I8oEeLw8vp-3" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="CnF4NuGKu7I8oEeLw8vp-9" target="CnF4NuGKu7I8oEeLw8vp-1" edge="1">
