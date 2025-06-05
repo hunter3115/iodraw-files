@@ -718,7 +718,7 @@
         <mxCell id="hrIqiJIee1buAGtYQBNR-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="hrIqiJIee1buAGtYQBNR-1" target="hrIqiJIee1buAGtYQBNR-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hrIqiJIee1buAGtYQBNR-1" value="施工组安全负责人：&lt;div&gt;郭世俊&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="hrIqiJIee1buAGtYQBNR-1" value="施工组安全负责人：&lt;div&gt;徐邦龙&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="439" y="110" width="191" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hrIqiJIee1buAGtYQBNR-2" value="作业队安全负责人：&lt;div&gt;周&amp;nbsp; 峰&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
