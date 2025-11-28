@@ -1138,7 +1138,7 @@
         <mxCell id="m6hMccV8EjiUUZLkv3hv-1" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;布设图管理&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;埋点情况&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="340" y="40" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="m6hMccV8EjiUUZLkv3hv-4" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;布设图管理&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;埋点情况&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="m6hMccV8EjiUUZLkv3hv-4" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;外业数据采集&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="340" y="120" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
