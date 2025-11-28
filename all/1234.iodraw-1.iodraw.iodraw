@@ -1223,9 +1223,6 @@
         <mxCell id="m6hMccV8EjiUUZLkv3hv-18" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;功能（相近点的&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;变化情况对比）&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="472" y="585" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lBpX0j4AWT3DvN_ZZItO-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m6hMccV8EjiUUZLkv3hv-19" target="m6hMccV8EjiUUZLkv3hv-21">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="m6hMccV8EjiUUZLkv3hv-19" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;出具监测报告&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="471" y="670" width="120" height="40" as="geometry" />
         </mxCell>
