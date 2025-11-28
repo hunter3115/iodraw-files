@@ -1142,14 +1142,15 @@
           <mxGeometry x="261" y="40" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="m6hMccV8EjiUUZLkv3hv-4" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;后台数据综合&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;处理系统&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="290" y="500" width="120" height="50" as="geometry" />
+          <mxGeometry x="291" y="500" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="m6hMccV8EjiUUZLkv3hv-5" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;人工输入和自动导入两种数据输入方式&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="411" y="180" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lBpX0j4AWT3DvN_ZZItO-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="m6hMccV8EjiUUZLkv3hv-4">
+        <mxCell id="lBpX0j4AWT3DvN_ZZItO-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="321" y="370" as="sourcePoint" />
+            <mxPoint x="321" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="m6hMccV8EjiUUZLkv3hv-6" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;基坑位移&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;沉降数据&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;" parent="1" vertex="1">
