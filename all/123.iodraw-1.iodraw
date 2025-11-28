@@ -1145,7 +1145,7 @@
           <mxGeometry x="490" y="180" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m6hMccV8EjiUUZLkv3hv-6" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;外业数据采集&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="340" y="250" width="100" height="50" as="geometry" />
+          <mxGeometry x="350" y="250" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
