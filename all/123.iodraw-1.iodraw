@@ -1223,14 +1223,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="240" as="sourcePoint" />
             <mxPoint x="380" y="220" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="400" y="200" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="m6hMccV8EjiUUZLkv3hv-33" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="330" y="270" as="sourcePoint" />
+            <mxPoint x="400" y="200" as="sourcePoint" />
             <mxPoint x="380" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
