@@ -1163,7 +1163,7 @@
           <mxGeometry x="295" y="280" width="50" height="110" as="geometry" />
         </mxCell>
         <mxCell id="m6hMccV8EjiUUZLkv3hv-7" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;建筑&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;物沉&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;降数&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;据&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="166" y="280" width="50" height="110" as="geometry" />
+          <mxGeometry x="151" y="280" width="50" height="110" as="geometry" />
         </mxCell>
         <mxCell id="m6hMccV8EjiUUZLkv3hv-8" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;地下&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;管线&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;位移&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;数据&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="56" y="280" width="50" height="110" as="geometry" />
@@ -1327,10 +1327,10 @@
         </mxCell>
         <mxCell id="lBpX0j4AWT3DvN_ZZItO-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="209.5" y="240" as="sourcePoint" />
-            <mxPoint x="209.5" y="280" as="targetPoint" />
+            <mxPoint x="178.5" y="240" as="sourcePoint" />
+            <mxPoint x="178.5" y="280" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="209.5" y="260" />
+              <mxPoint x="178.5" y="260" />
             </Array>
           </mxGeometry>
         </mxCell>
