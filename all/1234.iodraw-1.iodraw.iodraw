@@ -1147,6 +1147,9 @@
         <mxCell id="m6hMccV8EjiUUZLkv3hv-5" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;人工输入和自动导入两种数据输入方式&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="411" y="180" width="280" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="lBpX0j4AWT3DvN_ZZItO-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="m6hMccV8EjiUUZLkv3hv-6" target="m6hMccV8EjiUUZLkv3hv-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="m6hMccV8EjiUUZLkv3hv-6" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;基坑位移&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;沉降数据&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="276" y="280" width="90" height="50" as="geometry" />
         </mxCell>
@@ -1315,8 +1318,8 @@
         </mxCell>
         <mxCell id="lBpX0j4AWT3DvN_ZZItO-16" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-8.36999999999989" y="371.625" as="sourcePoint" />
-            <mxPoint x="-8.36999999999989" y="329.5" as="targetPoint" />
+            <mxPoint x="-9.36999999999989" y="371.625" as="sourcePoint" />
+            <mxPoint x="-9.36999999999989" y="329.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lBpX0j4AWT3DvN_ZZItO-17" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
