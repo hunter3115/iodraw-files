@@ -1277,6 +1277,33 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="lBpX0j4AWT3DvN_ZZItO-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="345.5" y="240" as="sourcePoint" />
+            <mxPoint x="345.5" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="345.5" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lBpX0j4AWT3DvN_ZZItO-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="255.5" y="260" as="sourcePoint" />
+            <mxPoint x="255.5" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="255.5" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lBpX0j4AWT3DvN_ZZItO-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="265.5" y="270" as="sourcePoint" />
+            <mxPoint x="265.5" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="265.5" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
