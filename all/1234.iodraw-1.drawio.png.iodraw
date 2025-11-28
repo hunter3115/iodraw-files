@@ -1455,14 +1455,14 @@
           <mxGeometry x="547" y="280" width="50" height="110" as="geometry" />
         </mxCell>
         <mxCell id="au2Vg5owjX007nxlnpti-11" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;基坑&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;位移&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;沉降&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 50%;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;数据&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="266" y="290" width="50" height="110" as="geometry" />
+          <mxGeometry x="321" y="280" width="50" height="110" as="geometry" />
         </mxCell>
         <mxCell id="au2Vg5owjX007nxlnpti-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="291.5" y="250" as="sourcePoint" />
-            <mxPoint x="291.5" y="290" as="targetPoint" />
+            <mxPoint x="346.5" y="240" as="sourcePoint" />
+            <mxPoint x="346.5" y="280" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="291.5" y="270" />
+              <mxPoint x="346.5" y="260" />
             </Array>
           </mxGeometry>
         </mxCell>
